@@ -1,0 +1,10 @@
+{
+    "name": "node",
+    "version": "0.0.1",
+    "description": "node playground",
+    "author": "Xed the Mage",
+    "dependencies": {
+        "mysql": "2.x.x"
+    },
+    "main": "index"
+}
